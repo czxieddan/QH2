@@ -6,7 +6,7 @@
   <h1><a href="https://github.com/czxieddan/">CzXieDdan</a> - QH2</h1>
 </div>
 
- # <div align="center"><img src="QRISTH2/GIKU.ico" height="200"><div align="center"><a href="https://github.com/czxieddan/QPIST-Quick-Personnel-Information-Storage-Tool/releases/tag/QH2">QH2</a> </div></div>
+ # <div align="center"><img src="GIKU.ico" height="200"><div align="center"><a href="https://github.com/czxieddan/QPIST-Quick-Personnel-Information-Storage-Tool/releases/tag/QH2">QH2</a> </div></div>
 Quick Personnel Information Storage Tool(HTML) v2.1.0 By _[CzXieDdan](https://x.com/CzXieDdan)_
 
 A **complementary** tool to help manage **large** numbers of people at scale, **quickly** and **lightly**.
