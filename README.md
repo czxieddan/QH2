@@ -4,7 +4,6 @@
     <img src="https://czxieddan.top/favicon.ico" height="200">
   </a>
   <h1><a href="https://github.com/czxieddan/">CzXieDdan</a> - QH2</h1>
-  hhh
 </div>
 
  # <div align="center"><img src="GIKU.ico" height="200"><div align="center"><a href="https://github.com/czxieddan/QPIST-Quick-Personnel-Information-Storage-Tool/releases/tag/QH2">QH2</a> </div></div>
